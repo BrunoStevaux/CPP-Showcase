@@ -1,5 +1,5 @@
-#ifndef TREESET_H
-#define TREESET_H
+#ifndef LL_H
+#define LL_H
 
 class LinkedList
 {

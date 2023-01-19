@@ -1,8 +1,6 @@
 // Name: Bruno Stevaux.
 // Email: 144894s@acadiau.ca
 
-// Assignment 3
-
 // NOTES: I am assuming 'avg' will be an int as all other variable
 //        types are also ints.
 
