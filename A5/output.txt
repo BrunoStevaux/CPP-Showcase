@@ -1,0 +1,80 @@
+
+Customer Web View
+-----------------
+
+<table border width=40%>
+ <tr>
+  <td width=100%>Bell</td>
+ </tr>
+ <tr>
+  <td width=100%>Book</td>
+ </tr>
+ <tr>
+  <td width=100%>Candle</td>
+ </tr>
+ <tr>
+  <td width=100%>Cauldron</td>
+ </tr>
+ <tr>
+  <td width=100%>Cyclotron</td>
+ </tr>
+</table>
+
+
+
+Customer Screen View
+--------------------
+
++----------------------+
+| Bell                 | 
+| Book                 | 
+| Candle               | 
+| Cauldron             | 
+| Cyclotron            | 
++----------------------+
+
+
+
+Manager Web View
+----------------
+
+<table border width=100%>
+ <tr>
+  <td width=30%>BL023</td>
+  <td width=50%>Bell</td>
+  <td width=20%>120</td>
+ </tr>
+ <tr>
+  <td width=30%>BK015</td>
+  <td width=50%>Book</td>
+  <td width=20%>30</td>
+ </tr>
+ <tr>
+  <td width=30%>CN802</td>
+  <td width=50%>Candle</td>
+  <td width=20%>400</td>
+ </tr>
+ <tr>
+  <td width=30%>CL041</td>
+  <td width=50%>Cauldron</td>
+  <td width=20%>20</td>
+ </tr>
+ <tr>
+  <td width=30%>CY100</td>
+  <td width=50%>Cyclotron</td>
+  <td width=20%>3</td>
+ </tr>
+</table>
+
+
+
+Manager Screen View
+-------------------
+
++----------------------------------------------------------+
+| BL023           | Bell                      |        120 | 
+| BK015           | Book                      |         30 | 
+| CN802           | Candle                    |        400 | 
+| CL041           | Cauldron                  |         20 | 
+| CY100           | Cyclotron                 |          3 | 
++----------------------------------------------------------+
